@@ -1899,7 +1899,7 @@ ul {
 
 .main-menu-three__main-menu-three-box {
   display: block;
-  float: right;
+  float: left;
   margin-left: 50px;
 }
 
@@ -2654,6 +2654,7 @@ ul {
   width: 650px;
   background-color: #f8f6f5;
   border-radius: 50%;
+  z-index: -2;
 }
 
 .about-one-wall {
@@ -4212,7 +4213,7 @@ ul {
 }
 
 .team-one__title {
-  font-size: 14px;
+  font-size: 10px;
   color: var(--ambed-white, #ffffff);
   font-weight: 500;
   text-transform: uppercase;
