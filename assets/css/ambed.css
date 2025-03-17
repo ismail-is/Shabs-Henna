@@ -11187,6 +11187,11 @@ body.boxed-wrapper {
 .main-menu-three__logo .light-logo {
   display: block;
 }
+@media (max-width: 768px) {
+  .light-logo {
+      margin-top: -20px !important;
+  }
+}
 
 .main-menu-three__logo img {
   image-rendering: -moz-crisp-edges;

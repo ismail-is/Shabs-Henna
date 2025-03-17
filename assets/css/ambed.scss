@@ -10693,6 +10693,12 @@ body.boxed-wrapper {
     display: none;
   }
 
+  @media (max-width: 768px) {
+    .light-logo {
+        margin-bottom: 30px !important;
+    }
+}
+
   img {
     image-rendering: -moz-crisp-edges;
     image-rendering: -o-crisp-edges;
