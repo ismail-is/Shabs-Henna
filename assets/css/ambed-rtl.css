@@ -12953,3 +12953,7 @@ body.boxed-wrapper {
   font-weight: 400;
   padding-right: 33px;
 }
+
+.swiper-slide p{
+  background-color: red !important;
+}
