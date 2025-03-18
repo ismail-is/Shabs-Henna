@@ -12966,6 +12966,6 @@ body.boxed-wrapper {
 /* Mobile screen font size adjustment */
 @media (max-width: 600px) {
   .swiper-slide p {
-    font-size: 15px !important;
+    font-size: 22px !important;
   }
 }
